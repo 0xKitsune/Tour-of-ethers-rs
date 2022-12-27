@@ -1,3 +1,7 @@
+### ------------------------------------
+### Book in progress 🏗️.
+### ------------------------------------
+
 # Tour-of-ethers-rs
 This resource is a comprehensive walkthrough of all the nooks and crannies that `ethers-rs` has to offer, taking you from 0-100 on `ethers-rs`. For this resource to be as effective as possible, you should know some Rust, and the basics of Ethereum. 
 
